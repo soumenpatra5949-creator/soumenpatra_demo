@@ -1,2 +1,2 @@
-# soumenpatra_demo
+# soumenpatra-demo
 This is my First Git Repository
